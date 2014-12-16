@@ -1,0 +1,14 @@
+﻿Build started 12/15/2014 9:50:15 PM.
+     1>Project "F:\aieprojects\MathLib\MathLibTest\MathLibTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../MathLib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MathLibTest.cpp
+         MathLibTest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\aieprojects\MathLib\Debug\MathLibTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\Debug MathLib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\aieprojects\MathLib\Debug\MathLibTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\aieprojects\MathLib\Debug\MathLibTest.lib" /MACHINE:X86 Debug\MathLibTest.obj
+         F:\aieprojects\MathLib\Debug\MathLib.lib
+         MathLibTest.vcxproj -> F:\aieprojects\MathLib\Debug\MathLibTest.exe
+     1>Done Building Project "F:\aieprojects\MathLib\MathLibTest\MathLibTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.07

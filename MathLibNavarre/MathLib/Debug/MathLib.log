@@ -1,0 +1,21 @@
+﻿Build started 12/15/2014 9:49:09 PM.
+     1>Project "F:\aieprojects\MathLib\MathLib\MathLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Matrix3x3.cpp Matrix4x4.cpp Vector3.cpp
+         Vector3.cpp
+         Matrix4x4.cpp
+         Matrix3x3.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"F:\aieprojects\MathLib\Debug\MathLib.lib" /NOLOGO Debug\Matrix3x3.obj
+         Debug\Matrix4x4.obj
+         Debug\Queue.obj
+         Debug\Stack.obj
+         Debug\Vector3.obj
+         Debug\Vector4.obj
+         MathLib.vcxproj -> F:\aieprojects\MathLib\Debug\MathLib.lib
+     1>Done Building Project "F:\aieprojects\MathLib\MathLib\MathLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.94
